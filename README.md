@@ -1,5 +1,5 @@
 
-![Logo](https://cups.pundah.org/images/logo.png)
+![Logo](images/logo.png)
 
 
 # Nana's Art Cups
