@@ -9,12 +9,12 @@ function FreeShippingBar() {
           <p>Get Free Shipping on all orders over $75.</p>
         </div>
         <div className="p-2 border-divider">
-          <h2>Best Price</h2>
-          <p>We offer the best prices on all our products.</p>
+          <h2>Great Service</h2>
+		  <p>We are dedicated to providing exceptional customer service, always putting the need of our customers fist and ensuring their satisfaction with every purchase.</p>
         </div>
         <div className="p-2 border-divider">
-          <h2>Great Service</h2>
-          <p>Our customer service is available 24/7.</p>
+		  <h2>Amazing Quality</h2>
+          <p>We use the highest quality materials on all of our products.</p>
         </div>
       </div>
     </div>

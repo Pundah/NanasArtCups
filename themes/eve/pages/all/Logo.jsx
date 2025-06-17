@@ -4,7 +4,7 @@ function Logo() {
   return (
     <div>
       <a href="/">
-        <img src="/eve.svg" alt="eve" />
+        <img src="/logo2.png" alt="Nana's Art Cups Logo" width="100" height="100" />
       </a>
     </div>
   );

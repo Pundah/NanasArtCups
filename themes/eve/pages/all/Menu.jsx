@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import React from "react";
 
-export default function Menu({ menu: { items } }) {
+/* export default function Menu({ menu: { items } }) {
   return (
     <div className="main-menu self-center hidden md:block">
       <ul className="nav flex space-x-275 justify-content-center">
@@ -21,7 +21,7 @@ export default function Menu({ menu: { items } }) {
       </ul>
     </div>
   );
-}
+} */
 
 Menu.propTypes = {
   menu: PropTypes.shape({
