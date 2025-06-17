@@ -1,5 +1,5 @@
 
-![Logo](public/images/logo.png)
+![Logo](themes/eve/public/logo.png)
 
 
 # Nana's Art Cups
@@ -11,3 +11,8 @@ Step into Nana's Art Cups, where every mug tells a story! More than just a place
  - [Evershop](https://github.com/evershopcommerce/evershop) - The e-commerce platform used for our webstore.
  - [Evetheme](https://github.com/evershopcommerce/evetheme) - The base theme used for our Evershop store.
  
+## Roadmap
+
+ - Add Google sign-in authentication.
+ 
+ - Add custom color pallet for website.
