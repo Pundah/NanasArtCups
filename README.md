@@ -1,5 +1,5 @@
 
-![Logo](images/logo.png)
+![Logo](public/images/logo.png)
 
 
 # Nana's Art Cups
